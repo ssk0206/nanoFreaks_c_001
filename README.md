@@ -1,6 +1,6 @@
 # nanofreaks_c_001
 
-A new Flutter project.
+A first Flutter project.
 
 ## Getting Started
 
